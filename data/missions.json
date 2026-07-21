@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Madison Field Hospital",
+    "district": "Hudson Yards",
+    "level": 8,
+    "difficulty": 2,
+    "priority": 5,
+    "xp": 2200,
+    "completed": false,
+    "notes": "Rescue Dr. Kandel from the hospital."
+  },
+  {
+    "id": 2,
+    "name": "Lincoln Tunnel Checkpoint",
+    "district": "Hudson Yards",
+    "level": 10,
+    "difficulty": 3,
+    "priority": 5,
+    "xp": 2800,
+    "completed": false,
+    "notes": "Clear the tunnel and secure the checkpoint."
+  },
+  {
+    "id": 3,
+    "name": "Amherst's Apartment",
+    "district": "Hudson Yards",
+    "level": 12,
+    "difficulty": 3,
+    "priority": 4,
+    "xp": 3200,
+    "completed": false,
+    "notes": "Investigate the outbreak origin."
+  },
+  {
+    "id": 4,
+    "name": "Times Square Power Relay",
+    "district": "Times Square",
+    "level": 14,
+    "difficulty": 4,
+    "priority": 4,
+    "xp": 3800,
+    "completed": false,
+    "notes": "Restore power to the grid."
+  },
+  {
+    "id": 5,
+    "name": "Broadway Emporium",
+    "district": "Times Square",
+    "level": 16,
+    "difficulty": 4,
+    "priority": 3,
+    "xp": 4200,
+    "completed": false,
+    "notes": "Secure the supplies."
+  },
+  {
+    "id": 6,
+    "name": "Napalm Production Site",
+    "district": "Chelsea",
+    "level": 18,
+    "difficulty": 5,
+    "priority": 5,
+    "xp": 4800,
+    "completed": false,
+    "notes": "Destroy the napalm production facility."
+  },
+  {
+    "id": 7,
+    "name": "Police Academy",
+    "district": "Chelsea",
+    "level": 20,
+    "difficulty": 5,
+    "priority": 4,
+    "xp": 5200,
+    "completed": false,
+    "notes": "Secure the academy and rescue cadets."
+  },
+  {
+    "id": 8,
+    "name": "Grand Central Station",
+    "district": "Midtown East",
+    "level": 22,
+    "difficulty": 5,
+    "priority": 5,
+    "xp": 5800,
+    "completed": false,
+    "notes": "Retake Grand Central from the LMB."
+  },
+  {
+    "id": 9,
+    "name": "Lexington Event Center",
+    "district": "Midtown East",
+    "level": 24,
+    "difficulty": 5,
+    "priority": 4,
+    "xp": 6200,
+    "completed": false,
+    "notes": "Clear the Rikers from the event center."
+  },
+  {
+    "id": 10,
+    "name": "Rooftop Comm Relay",
+    "district": "Murray Hill",
+    "level": 26,
+    "difficulty": 4,
+    "priority": 3,
+    "xp": 6800,
+    "completed": false,
+    "notes": "Restore the communications relay."
+  },
+  {
+    "id": 11,
+    "name": "Queens Tunnel Camp",
+    "district": "Murray Hill",
+    "level": 28,
+    "difficulty": 5,
+    "priority": 4,
+    "xp": 7200,
+    "completed": false,
+    "notes": "Clear the tunnel camp."
+  },
+  {
+    "id": 12,
+    "name": "United Nations Assembly",
+    "district": "Midtown East",
+    "level": 30,
+    "difficulty": 5,
+    "priority": 5,
+    "xp": 8500,
+    "completed": false,
+    "notes": "Final mission. Stop the LMB leader."
+  }
+]

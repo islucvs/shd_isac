@@ -1,0 +1,22 @@
+{
+  "name": "division-agent-progress-tracker",
+  "version": "1.0.0",
+  "description": "A Division 1 inspired agent progress tracker with military HUD UI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "division",
+    "tracker",
+    "hud",
+    "military",
+    "progress"
+  ],
+  "author": "Senior Full Stack Engineer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Agent",
+  "level": 13,
+  "firepower": 4000,
+  "toughness": 5000,
+  "skillPower": 4000,
+  "district": "Hudson Yards",
+  "xp": 3400
+}
