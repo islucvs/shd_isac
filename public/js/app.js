@@ -70,7 +70,7 @@ async function init() {
         setTimeout(() => {
             loading.hide();
             navigateTo('dashboard');
-        }, 3000);
+        }, 0);
         
     } catch (error) {
         console.error('Initialization error:', error);

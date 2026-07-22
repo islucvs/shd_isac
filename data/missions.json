@@ -8,127 +8,182 @@
     "priority": 5,
     "xp": 2200,
     "completed": false,
-    "notes": "Rescue Dr. Kandel from the hospital."
+    "notes": "Rescue Dr. Jessica Kandel from the hospital."
   },
   {
     "id": 2,
     "name": "Lincoln Tunnel Checkpoint",
-    "district": "Hudson Yards",
+    "district": "Clinton",
     "level": 10,
     "difficulty": 3,
     "priority": 5,
-    "xp": 2800,
+    "xp": 2600,
     "completed": false,
-    "notes": "Clear the tunnel and secure the checkpoint."
+    "notes": "Secure the tunnel and rescue Captain Roy Benitez."
   },
   {
     "id": 3,
     "name": "Amherst's Apartment",
-    "district": "Hudson Yards",
+    "district": "Hell's Kitchen",
     "level": 12,
     "difficulty": 3,
-    "priority": 4,
-    "xp": 3200,
+    "priority": 5,
+    "xp": 3100,
     "completed": false,
-    "notes": "Investigate the outbreak origin."
+    "notes": "Investigate Gordon Amherst's apartment."
   },
   {
     "id": 4,
-    "name": "Times Square Power Relay",
-    "district": "Times Square",
+    "name": "Police Academy",
+    "district": "Tenderloin",
     "level": 14,
-    "difficulty": 4,
-    "priority": 4,
-    "xp": 3800,
+    "difficulty": 3,
+    "priority": 5,
+    "xp": 3600,
     "completed": false,
-    "notes": "Restore power to the grid."
+    "notes": "Recover explosives from the Rikers."
   },
   {
     "id": 5,
-    "name": "Broadway Emporium",
-    "district": "Times Square",
+    "name": "Lexington Event Center",
+    "district": "Midtown East",
     "level": 16,
     "difficulty": 4,
-    "priority": 3,
+    "priority": 5,
     "xp": 4200,
     "completed": false,
-    "notes": "Secure the supplies."
+    "notes": "Neutralize Larae Barrett and secure the event center."
   },
   {
     "id": 6,
-    "name": "Napalm Production Site",
-    "district": "Chelsea",
+    "name": "Queens Tunnel Camp",
+    "district": "Murray Hill",
     "level": 18,
-    "difficulty": 5,
-    "priority": 5,
-    "xp": 4800,
+    "difficulty": 3,
+    "priority": 4,
+    "xp": 4700,
     "completed": false,
-    "notes": "Destroy the napalm production facility."
+    "notes": "Assist civilians trapped inside the tunnel."
   },
   {
     "id": 7,
-    "name": "Police Academy",
-    "district": "Chelsea",
+    "name": "Russian Consulate",
+    "district": "Turtle Bay",
     "level": 20,
-    "difficulty": 5,
-    "priority": 4,
-    "xp": 5200,
+    "difficulty": 4,
+    "priority": 5,
+    "xp": 5400,
     "completed": false,
-    "notes": "Secure the academy and rescue cadets."
+    "notes": "Extract Vitaly Tchernenko from the Russian Consulate."
   },
   {
     "id": 8,
-    "name": "Grand Central Station",
-    "district": "Midtown East",
+    "name": "General Assembly",
+    "district": "Gramercy",
     "level": 22,
-    "difficulty": 5,
+    "difficulty": 4,
     "priority": 5,
-    "xp": 5800,
+    "xp": 6100,
     "completed": false,
-    "notes": "Retake Grand Central from the LMB."
+    "notes": "Rescue President Ellis from the Last Man Battalion."
   },
   {
     "id": 9,
-    "name": "Lexington Event Center",
-    "district": "Midtown East",
+    "name": "Broadway Emporium",
+    "district": "Garment District",
     "level": 24,
-    "difficulty": 5,
+    "difficulty": 4,
     "priority": 4,
-    "xp": 6200,
+    "xp": 6800,
     "completed": false,
-    "notes": "Clear the Rikers from the event center."
+    "notes": "Recover JTF supplies stolen by the Cleaners."
   },
   {
     "id": 10,
-    "name": "Rooftop Comm Relay",
-    "district": "Murray Hill",
+    "name": "Times Square Power Relay",
+    "district": "Times Square",
     "level": 26,
     "difficulty": 4,
-    "priority": 3,
-    "xp": 6800,
+    "priority": 5,
+    "xp": 7600,
     "completed": false,
-    "notes": "Restore the communications relay."
+    "notes": "Restore power to the local grid."
   },
   {
     "id": 11,
-    "name": "Queens Tunnel Camp",
-    "district": "Murray Hill",
+    "name": "Warrengate Power Plant",
+    "district": "Stuyvesant",
     "level": 28,
-    "difficulty": 5,
-    "priority": 4,
-    "xp": 7200,
-    "completed": false,
-    "notes": "Clear the tunnel camp."
-  },
-  {
-    "id": 12,
-    "name": "United Nations Assembly",
-    "district": "Midtown East",
-    "level": 30,
     "difficulty": 5,
     "priority": 5,
     "xp": 8500,
     "completed": false,
-    "notes": "Final mission. Stop the LMB leader."
+    "notes": "Retake the power plant from the Cleaners."
+  },
+  {
+    "id": 12,
+    "name": "United Nations General Assembly",
+    "district": "Turtle Bay",
+    "level": 30,
+    "difficulty": 5,
+    "priority": 5,
+    "xp": 10000,
+    "completed": false,
+    "notes": "Confront Charles Bliss and complete the main campaign."
+  },
+  {
+    "id": 13,
+    "name": "Napalm Production Site",
+    "district": "Clinton",
+    "level": 30,
+    "difficulty": 5,
+    "priority": 4,
+    "xp": 10500,
+    "completed": false,
+    "notes": "Destroy the Cleaners' napalm production facility."
+  },
+  {
+    "id": 14,
+    "name": "Dragon's Nest",
+    "district": "Hell's Kitchen",
+    "level": 30,
+    "difficulty": 5,
+    "priority": 4,
+    "xp": 11000,
+    "completed": false,
+    "notes": "Incursion against the Cleaners' headquarters."
+  },
+  {
+    "id": 15,
+    "name": "Falcon Lost",
+    "district": "Stuyvesant",
+    "level": 30,
+    "difficulty": 5,
+    "priority": 4,
+    "xp": 11000,
+    "completed": false,
+    "notes": "Incursion inside the underground water treatment facility."
+  },
+  {
+    "id": 16,
+    "name": "Clear Sky",
+    "district": "Columbus Circle",
+    "level": 30,
+    "difficulty": 5,
+    "priority": 4,
+    "xp": 11500,
+    "completed": false,
+    "notes": "Retake the anti-aircraft battery from the Rikers."
+  },
+  {
+    "id": 17,
+    "name": "Stolen Signal",
+    "district": "Tenderloin",
+    "level": 30,
+    "difficulty": 5,
+    "priority": 4,
+    "xp": 12000,
+    "completed": false,
+    "notes": "Rescue civilians captured by the Rikers."
   }
 ]

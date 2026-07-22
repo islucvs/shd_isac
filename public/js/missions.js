@@ -465,7 +465,7 @@ function renderRecommendedMission(container) {
     }
     
     container.innerHTML = `
-        <div class="card animate-fade-in-up" style="border-color: rgba(255, 106, 0, 0.4);">
+        <div class="card animate-fade-in-up stagger-3">
             <div class="card-header">
                 <div>
                     <div class="card-title" style="color: var(--color-accent-primary);">RECOMMENDED MISSION</div>
@@ -490,7 +490,7 @@ function renderRecommendedMission(container) {
                     </div>
                 </div>
                 <div class="btn-group">
-                    <button class="btn btn-primary mission-start-btn" data-id="${recommended.id}">START MISSION</button>
+                    <button class="btn btn-primary mission-complete-btn" data-id="${recommended.id}">START MISSION</button>
                     <button class="btn mission-edit-btn" data-id="${recommended.id}">EDIT</button>
                     <button class="btn btn-success mission-complete-btn" data-id="${recommended.id}">COMPLETE</button>
                 </div>
@@ -499,7 +499,7 @@ function renderRecommendedMission(container) {
     `;
     
     // Attach event listeners
-    container.querySelector('.mission-start-btn')?.addEventListener('click', () => {
+    container.querySelector('.mission-complete-btn')?.addEventListener('click', () => {
         toast.info(`Starting mission: ${recommended.name}`, 'MISSION STARTED');
     });
     

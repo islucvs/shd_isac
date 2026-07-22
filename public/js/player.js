@@ -151,16 +151,16 @@ function renderPlayerCard(container) {
             </div>
             <div class="player-stats">
                 <div class="player-stat">
+                    <div class="player-stat-label">Primary DPS</div>
                     <div class="player-stat-value">${formatNumber(playerData.firepower)}</div>
-                    <div class="player-stat-label">Firepower</div>
                 </div>
                 <div class="player-stat">
-                    <div class="player-stat-value">${formatNumber(playerData.toughness)}</div>
                     <div class="player-stat-label">Toughness</div>
+                    <div class="player-stat-value">${formatNumber(playerData.toughness)}</div>
                 </div>
                 <div class="player-stat">
-                    <div class="player-stat-value">${formatNumber(playerData.skillPower)}</div>
                     <div class="player-stat-label">Skill Power</div>
+                    <div class="player-stat-value">${formatNumber(playerData.skillPower)}</div>
                 </div>
             </div>
             <div class="progress-container" style="margin-bottom: var(--spacing-xs);">
